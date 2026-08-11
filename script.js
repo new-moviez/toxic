@@ -9,17 +9,17 @@
 
 // ── SITE CONFIGURATION ──
 const SITE_CONFIG = {
-    siteUrl: "https://USERNAME.github.io/REPOSITORY/"
+    siteUrl: "https://new-moviez.github.io/toxic/"
 };
 
 // ── MOVIE LINK CONFIGURATION ──
 // Replace placeholder URLs with your actual destinations.
 const MOVIE_LINKS = {
-    watchNow:     "OFFICIAL_WATCH_URL",
-    watch1080:    "OFFICIAL_1080P_URL",
-    watch720:     "OFFICIAL_720P_URL",
-    download:     "OFFICIAL_DOWNLOAD_URL",
-    newReleases:  "OFFICIAL_NEW_RELEASES_URL"
+    watchNow:     "http://tiny.cc/imgame",
+    watch1080:    "http://tiny.cc/imgame-1080p",
+    watch720:     "http://tiny.cc/imgame-720p",
+    download:     "http://tiny.cc/imgame-download",
+    newReleases:  "https://f1moviez.blogspot.com/"
 };
 
 /* ── Initialize ── */
